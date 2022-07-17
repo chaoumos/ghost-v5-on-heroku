@@ -9,7 +9,7 @@
   },
   "keywords": [
     "ghost",
-    "ghost v4",
+    "ghost v5",
     "heroku"
   ],
   "author": "thelovekesh",
@@ -22,11 +22,11 @@
     "node": "14.X"
   },
   "dependencies": {
-   
+   "casper": "github:TryGhost/Casper#main",
     "ghost": "5.2.3",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.1.5",
-   
+   "casper":
     "mysql2": "2.3.3"
   },
   "scripts": {
