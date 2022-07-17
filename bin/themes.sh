@@ -1,6 +1,6 @@
 themes=(
 	
-
+casper
 )
 
 for theme in "${themes[@]}"
